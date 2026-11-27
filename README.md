@@ -2,6 +2,10 @@
 
 GitScope is a GitHub repository discovery and analytics application that helps developers explore recently created repositories, discover popular projects, and understand repository activity through interactive charts.
 
+## Live Demo
+
+**Live Application:** [GitScope – GitHub Repository Explorer](https://gitscope-dun.vercel.app)
+
 ## Features
 
 - **Repository Discovery:** Explore the most-starred GitHub repositories created within the last 7, 14, or 30 days.
